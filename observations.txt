@@ -1,0 +1,4 @@
+Eric Shaffer
+Matplotlib Homework Data Analysis
+
+	From the data we can see that the Capomulin and Ramicane drug regimens had the lowest final tumor volumes when compared to the Infubinol and Ceftamin drug regimens.  When specifically looking at mouse s185, we can see that overtime while being treated with Capomulin his tumor volume decreased. Finally, we can see that there is a moderate, positive correlation between average tumor volume and weight for mice under the Capomulin drug regimen.  
